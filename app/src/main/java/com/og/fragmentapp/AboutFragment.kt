@@ -18,7 +18,7 @@ class AboutFragment : Fragment() {
         val view = inflater.inflate(R.layout.fragment_about, container, false)
 
         backButton = view.findViewById(R.id.back_button)
-
+val a=""
         val menuFragment = MenuFragment()
         backButton.setOnClickListener {
             activity?.supportFragmentManager
