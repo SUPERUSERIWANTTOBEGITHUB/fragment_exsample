@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Codes_kotlin/fragment-example/app/src/main/res/layout/activity_main.xml" value="0.14375" />
+        <entry key="..\:/Codes_kotlin/fragment-example/app/src/main/res/layout/fragment_about.xml" value="0.14375" />
+        <entry key="..\:/Codes_kotlin/fragment-example/app/src/main/res/layout/fragment_menu.xml" value="0.14375" />
+        <entry key="..\:/Codes_kotlin/fragment-example/app/src/main/res/menu/bottom_menu.xml" value="0.14375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_about.xml" value="0.24728260869565216" />
         <entry key="app/src/main/res/layout/fragment_menu.xml" value="0.24728260869565216" />
