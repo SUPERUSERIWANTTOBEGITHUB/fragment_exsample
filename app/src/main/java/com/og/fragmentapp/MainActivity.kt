@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
 
-
+//
 private const val LAST_SELECTED_ITEM = "item"
 
 class MainActivity : AppCompatActivity() {
