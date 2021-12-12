@@ -8,9 +8,7 @@ import android.widget.Button
 import androidx.fragment.app.Fragment
 
 class MenuFragment : Fragment() {
-
     private lateinit var aboutButton: Button
-
     override fun onCreateView(
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
@@ -25,7 +23,6 @@ class MenuFragment : Fragment() {
                 ?.replace(R.id.fragment_container, aboutFragment)
                 ?.commit()
         }
-
         return view
     }
 

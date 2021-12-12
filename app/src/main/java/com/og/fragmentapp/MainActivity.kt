@@ -1,5 +1,5 @@
 package com.og.fragmentapp
-
+// start my_change
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
@@ -21,10 +21,13 @@ class MainActivity : AppCompatActivity() {
             when (item.itemId) {
                 R.id.menu -> {
                     val menuFragment = MenuFragment()
+                    this.setTitle("Это МЕНЮ")
                     replaceFragment(menuFragment)
+
                 }
                 R.id.about -> {
                     val aboutFragment = AboutFragment()
+                    this.setTitle("О ПРОГРАММЕ")
                     replaceFragment(aboutFragment)
                 }
             }
